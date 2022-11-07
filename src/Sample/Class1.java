@@ -7,6 +7,7 @@ public class Class1 {
 		System.out.println("Pushing from cmd to github");
 		System.out.println("Pulling from github to eclipse through cmd");
 		System.out.println("Pushing from eclipse to github");
+		System.out.println("Pulling from git to eclipse through eclipse");
 	}
 
 }
